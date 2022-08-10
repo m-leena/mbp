@@ -1,0 +1,15 @@
+<html >
+<head>
+	<title>Internal CSS</title>
+	<style>
+		Body
+{
+	background-color:greenyellow;
+}
+	</style>
+</head>
+<body>
+	<h1>Welcome to GeeksforGeeks</h1>
+<h2>We are using the Internal CSS</h2>
+</body>
+</html>
